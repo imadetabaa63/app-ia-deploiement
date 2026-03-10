@@ -1,0 +1,8 @@
+# Secrets — JAMAIS sur GitHub
+.env
+*.key
+secrets.toml
+# Python
+__pycache__/
+*.pyc
+*.pyo
